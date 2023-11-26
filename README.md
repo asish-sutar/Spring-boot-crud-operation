@@ -41,5 +41,3 @@ This is a simple Spring Boot application demonstrating CRUD (Create, Read, Updat
 - Spring Data JPA
 - PostgreSQL (Database)
 
-Feel free to explore, contribute, and use this project as a learning resource!
-
